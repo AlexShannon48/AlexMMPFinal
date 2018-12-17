@@ -1,0 +1,20 @@
+body {
+background-image: url("cssback.png");
+background-size: auto;
+outline-style: dotted;
+outline-color: darkgrey ;
+}
+
+
+#title{ font-size: large;
+		font-weight: bold;
+		font-family: "Luminar"
+		 }
+
+#link1{ text-align left; }
+
+#link2{ text-align: center; }
+
+#link3{text-align: right;}
+
+#ani{ text-align: center; }

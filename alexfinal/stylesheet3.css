@@ -1,0 +1,17 @@
+body{
+	background-image: url("back2.jpg");
+background-size: auto;
+outline-style: dotted;
+outline-color: darkgrey ;
+}
+
+
+
+#title{ font-size: large;
+		font-weight: bold;
+		font-family: "Luminar"
+		 }
+
+
+.pa{font-size: large;
+	font-family: "Arial"}
